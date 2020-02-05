@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UACE,4BACF,CACA,YACE,oBACF,CACA,MACE,eACF","file":"main.b76e332d.chunk.css","sourcesContent":[".complete {\r\n  text-decoration: line-through;\r\n}\r\n.incomplete {\r\n  text-decoration: none;\r\n}\r\n.card {\r\n  margin-top: 10px;\r\n}\r\n"]}
